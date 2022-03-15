@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -11,7 +9,20 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-//reportWebVitals();
+
+
+//you should never change props from child comp
+//props are the data send from parent comp to child
+//they can't be modified and are read only 
+//props can be any kind of data not just the state that you want to pass on
+
+
+/**
+ * State
+ * 
+ * //the data that changes 
+ * //state can be changed from it's local comp only 
+ * 
+ */
+
+///how to make comps more dynamic? 
