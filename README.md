@@ -25,5 +25,5 @@ visit the website through the following link
 https://themoviesdata.netlify.app
 
 
-![My Remote Image](file:///Users/yomnaali/Desktop/Screen%20Shot%202022-05-22%20at%202.08.45%20PM.png)
+![My Remote Image](https://photos.google.com/album/AF1QipOhPzZpmhpMKU_r78sFt_83kXrP0Y3v2ApFnkg/photo/AF1QipMHBQ34xiVJI0S_rCGA55NqHbZErzOEtfh2-7k)
 
