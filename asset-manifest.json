@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/imdb/static/js/main.39aef3db.js",
+    "static/media/no_image.jpg": "/imdb/static/media/no_image.8a5ba7e5187f7207c445.jpg",
+    "static/media/react-movie-logo.svg": "/imdb/static/media/react-movie-logo.42955eb6fcd32d2d228d0634c7cb7804.svg",
+    "static/media/tmdb_logo.svg": "/imdb/static/media/tmdb_logo.f15b66321d9915689a58f8372fa02398.svg",
+    "static/media/search-icon.svg": "/imdb/static/media/search-icon.cd820f5a55f7cd57d7131f1672d43473.svg",
+    "index.html": "/imdb/index.html",
+    "main.39aef3db.js.map": "/imdb/static/js/main.39aef3db.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.39aef3db.js"
+  ]
+}
